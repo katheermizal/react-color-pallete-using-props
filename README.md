@@ -22,8 +22,7 @@ You Can able to set new color-code and relevant color-name from here from here <
   <Card colorCode="#CCCCCC" colorName="LIGHT GRAY"/>
   <Card colorCode="#7E41A2" colorName="PURPLE"/>
   <Card colorCode="#C14911" colorName="BROWN"/>
-</div>,
-)
+</div>
 ```
 
 
